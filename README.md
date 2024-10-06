@@ -3,6 +3,8 @@
 ## **Description**
 Supply Sync is a robust Java-based application designed to simplify and automate the management of inventory, customer orders, and product reviews. It is built using Core and Advanced Object-Oriented Programming (OOP) principles and leverages powerful frameworks like Spring Boot for the backend, Hibernate for ORM, and MySQL for database management. This system allows businesses to efficiently manage product inventory and customer orders while providing the ability to handle customer feedback via product reviews. The application also offers RESTful APIs for easy integration with other services.
 
+![Alt text]([image-url](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F12494550-inventory-control-system-concept-professional-manager-and-worker-are-checking-goods-and-stock-supply-inventory-management-with-goods-demand&psig=AOvVaw2Xr_5h9QuB5CCI9YUdPqif&ust=1728325158113000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDyv5uv-ogDFQAAAAAdAAAAABAJ))
+
 ## **Technologies Used**
 - **Java** (Core and Advanced OOP principles)
 - **Spring Boot** (Framework for building microservices)
